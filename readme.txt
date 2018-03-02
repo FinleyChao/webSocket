@@ -1,3 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-Git is modify.
+spring-boot集合webSocket和rabbitMQ，实现消息实时显示
